@@ -1,6 +1,6 @@
 # Hi, I'm Swarna Akter
 
-💻 Junior Software Developer @ FutureTrack GmbH  
+💻 Junior Software Developer @ FutureTrack-GmbH  
 📍 Dhaka, Bangladesh  
 
 ---
